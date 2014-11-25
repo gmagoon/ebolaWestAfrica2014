@@ -1,5 +1,7 @@
 ##An Ebola virus (EBOV) phylogeny annotated with branch-defining mutations##
 
+![2014image](https://github.com/gmagoon/ebolaWestAfrica2014/blob/master/ZEBOV_2014_outbreak_mutations.png)
+
 ###Summary###
 This is a maximum parsimony tree based on 101 Ebola virus (EBOV or *Zaire ebolavirus*) sequences, including recent sequences from the 2014 West Africa outbreak as published in Baize *et al.* (2014) and Gire *et al.* (2014). The tree is constructed using an iterative reweighting process, as described in Magoon *et al.* (2013), that downweights unstable sites; the approach allows generation of robust trees with explicit branch support, such that individual mutations can be localized to branches of the tree; in this case, the approach also provides insight into conserved genetic regions and stability of individual loci on the Zaire ebolavirus genome. PHYLIP 3.69 (with minor modifications for memory management) is used to provide the maximum parsimony tree generation algorithm and ancestral state reconstruction (Felsenstein 2009). The MAFFT multi-sequence alignment from Gire *et al.* is used here.
 
